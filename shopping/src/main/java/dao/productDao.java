@@ -9,6 +9,7 @@ import java.util.List;
 import connection.DBConnection;
 import model.product;
 
+
 public class productDao {
 	public static void uploadProduct(product p) {
 		try {
